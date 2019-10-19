@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Penjelasan danimplementasi Queue'
+title: 'Penjelasan dan contoh implementasi Queue'
 author: 'Ervin'
 ---
 
@@ -24,7 +24,7 @@ queue terbuka di kedua ujungnya. Satu ujung digunakkan untuk **memasukkan data(e
    * **dequeue()** - menghapus(mengakses) item dari antrian.
    * **peek()** - mendapatkn elemen di depan antrian tanpa menghapusnya.
    * **isfull()** - memeriksa apakah antrian penuh
-   * **isempty()** - memeriksa apakah antrian penuh
+   * **isempty()** - memeriksa apakah antrian kosong
 
 ## Queue sebagai Abstrack Data Type (ADT)
 
