@@ -67,3 +67,12 @@ volumes:
 ## Mengecek hasil instalasi
   - `http://localhost:8000` ~> membuka wordpress
   - `http://localhost:8080` ~> membuka dashboard phpmyadmin
+
+## Referensi
+  - [Docker](https://docs.docker.com/install/) - install docker
+  - [Docker Compose](https://docs.docker.com/compose/install/) - install docker-compose
+  - [Traversy Media](https://www.youtube.com/watch?v=pYhLEV-sRpY) - Quick Wordpress Setup With Docker
+
+
+
+
