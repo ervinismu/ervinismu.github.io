@@ -3,6 +3,6 @@ Personal site using jekyll [Chirpy](https://github.com/cotes2020/jekyll-theme-ch
 
 ## Running Locally
 - install [RVM](https://rvm.io/rvm/install)
-- cd project directory
-- make run
+- `cd project directory`
+- `make run`
 - open in browser `http://localhost:4000`
